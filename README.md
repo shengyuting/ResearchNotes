@@ -8,3 +8,7 @@
 * 阅读opencv源代码，理解算法原理
 ## 代码线
 * leetCode刷题，每周一道题，分享解题思路和方法。上网查找和自己实现都可以
+
+
+## reference
+* https://blog.csdn.net/WoPawn/article/details/52463853
