@@ -12,3 +12,7 @@
 
 ## reference
 [Fast R-CNN参考](https://blog.csdn.net/WoPawn/article/details/52463853)
+
+# 日常笔记
+[anaconda下载源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
+
