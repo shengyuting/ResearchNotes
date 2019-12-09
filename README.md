@@ -8,6 +8,8 @@
 * 阅读opencv源代码，理解算法原理
 ## 代码线
 * leetCode刷题，每周一道题，分享解题思路和方法。上网查找和自己实现都可以
+## LCFCN与CenterNet计数
+* LCFCN中的分水岭分割算法能不能用到CenterNet中，以分水岭分割算法分析出的区域的外接矩形框为CenterNet的宽高输入
 
 
 ## reference
